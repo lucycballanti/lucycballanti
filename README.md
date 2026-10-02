@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Lucy Ballanti and I am a student at Oregon State University studying data science with a focus in economics and policy. 
+Before beginning my degree, I became certified as a medical assistant and a pharmacy technician, showing a clear interest in 
+medicine and health. My hope is to use data and data science to make positive change in health policy, and help improve access to 
+healthcare and reduce inequities within our society. 
